@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Javier Millán Rodríguez</title>
+    <link>https://millannnn120.github.io</link>
+    <description>Canal RSS con noticias sobre tecnología y programación por Javier Millán Rodríguez.</description>
+    <language>es-es</language>
+    <copyright>By Javier Millán Rodríguez</copyright>
+    <lastBuildDate>Sun, 14 Jun 2026 10:00:00 +0100</lastBuildDate>
+
+    <item>
+      <title>Noticia 1 – La inteligencia artificial transforma el desarrollo web</title>
+      <link>https://millannnn120.github.io/noticia1</link>
+      <description>Los modelos de inteligencia artificial están cambiando radicalmente la forma en que se crean y mantienen las páginas web modernas, automatizando tareas que antes requerían horas de trabajo manual.</description>
+      <author>Javier Millán Rodríguez</author>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="false">jmr-noticia-001</guid>
+    </item>
+
+    <item>
+      <title>Noticia 2 – Python se mantiene como el lenguaje más popular del mundo</title>
+      <link>https://millannnn120.github.io/noticia2</link>
+      <description>Según el índice TIOBE de junio de 2026, Python sigue ocupando el primer puesto en popularidad entre los lenguajes de programación, gracias a su uso en ciencia de datos e inteligencia artificial.</description>
+      <author>Javier Millán Rodríguez</author>
+      <pubDate>Sat, 13 Jun 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="false">jmr-noticia-002</guid>
+    </item>
+
+    <item>
+      <title>Noticia 3 – CSS Grid vs Flexbox: ¿cuál usar en 2026?</title>
+      <link>https://millannnn120.github.io/noticia3</link>
+      <description>Una comparativa actualizada de las dos técnicas de maquetación web más utilizadas. Analizamos en qué situaciones conviene usar CSS Grid y cuándo es mejor optar por Flexbox.</description>
+      <author>Javier Millán Rodríguez</author>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="false">jmr-noticia-003</guid>
+    </item>
+
+    <item>
+      <title>Noticia 4 – XML y RSS siguen siendo esenciales en la web actual</title>
+      <link>https://millannnn120.github.io/noticia4</link>
+      <description>A pesar del auge de las APIs REST y el formato JSON, el estándar RSS basado en XML continúa siendo fundamental para la sindicación y distribución de contenidos en internet.</description>
+      <author>Javier Millán Rodríguez</author>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="false">jmr-noticia-004</guid>
+    </item>
+
+    <item>
+      <title>Noticia 5 – GitHub Pages: alojamiento web gratuito para estudiantes</title>
+      <link>https://millannnn120.github.io/noticia5</link>
+      <description>GitHub Pages permite publicar sitios web estáticos de forma totalmente gratuita. Es una herramienta ideal para que los estudiantes de DAW publiquen sus proyectos y portfolios en línea sin coste alguno.</description>
+      <author>Javier Millán Rodríguez</author>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="false">jmr-noticia-005</guid>
+    </item>
+
+  </channel>
+</rss>
